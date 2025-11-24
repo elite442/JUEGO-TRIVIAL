@@ -16,3 +16,12 @@ descargar el documento raylib-3.7.0 que esta en readme
 4_ haz click en la carpeta y busca raylib-3.7.0_win64_mingw-w64
 5_ entra en la carpeta y selecciona la carpeta lib y lo agregas
 6_ luego te vas a C include, vuelves a seleccionar la misma carpeta y buscas la carpeta llamada include
+
+
+
+
+
+![Imagen de WhatsApp 2025-11-23 a las 01 04 07_78599395](https://github.com/user-attachments/assets/51758b42-a676-4cb2-a608-97959071be03)
+
+
+
