@@ -9,7 +9,7 @@ tener la blibloteca RAYLIB v3.7
 **COMO DESCARGAR LA BIBLOTECA:**
 descarga el documento raylib-3.7.0 que esta en readme
 
-**como colocar la libreria en el compilador:**
+**COMO COLOCAR LA LIBRERIA EN EL COMPILADOR:**
 1_ busca tools
 2_ selecciona compiler options
 3_ ve a Directories, luego selecciona libraries
