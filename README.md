@@ -1,18 +1,18 @@
 # JUEGO-TRIVIAL
 
 **DESCRIPCION DEL PROYECTO:**  
-juego trivial es un juego de adivinar las preguntas desarrollado en C que implementas los conceptos de Algoritmos y Estructura de Datos 2. el objetivo del juego es adivinar correctamente 20 preguntas
+juego trivial es un juego de adivinar las preguntas desarrollado en C que implementas los conceptos de Algoritmos y Estructura de Datos 2. el objetivo del juego es adivinar correctamente 20 preguntas, para este proyecto utilizamos la blibloca raylib ya que con ella podemos agregar interfezces
 
 **INTEGRANTES:**
 MONZON ANGEL,
 GARCIA MATHEO, 
 IGLESIAS LAUTARO
 
-**REQUSITO:**
-tener la blibloteca RAYLIB v3.7
+**BIBLOTECA RAYLIB:**
+descargar el documento raylib-3.7.0, 
 
-**COMO DESCARGAR LA BIBLOTECA:**
-descargar el documento raylib-3.7.0 que esta en readme
+**porque la 3.7?**
+
 
 **COMO COLOCAR LA LIBRERIA EN EL COMPILADOR:**
 para configurar el compilador, dentro del mismo proyecto
