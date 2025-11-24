@@ -23,4 +23,15 @@ para configurar el compilador, dentro del mismo proyecto
 
 ![Imagen de WhatsApp 2025-11-23 a las 01 10 51_f486a7ef](https://github.com/user-attachments/assets/df1b3e93-3967-4af2-850f-dc38efb4d4ea)
 
+Para configurar el enlazador, dentro del archivo .dev del proyecto:
+![Imagen de WhatsApp 2025-11-24 a las 01 11 38_91feac9c](https://github.com/user-attachments/assets/205eadf9-e1ce-453e-b380-f7057bb0562e)
+
+![Imagen de WhatsApp 2025-11-24 a las 01 11 38_53fce2d9](https://github.com/user-attachments/assets/0efc4755-42e9-4017-bea3-f75e39d233ca)
+copiamos lo siguiente en el apartado del enlazador: -lraylib
+-lopengl32 
+-lgdi32 
+-lwinmm
+
+
+
 
