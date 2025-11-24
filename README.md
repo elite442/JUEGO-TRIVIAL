@@ -7,7 +7,7 @@ juego trivial es un juego de adivinar las preguntas desarrollado en C que implem
 tener la blibloteca RAYLIB v3.7
 
 **COMO DESCARGAR LA BIBLOTECA:**
-descarga el documento raylib-3.7.0 que esta en readme
+descargar el documento raylib-3.7.0 que esta en readme
 
 **COMO COLOCAR LA LIBRERIA EN EL COMPILADOR:**
 1_ busca tools
