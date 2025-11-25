@@ -12,7 +12,7 @@ IGLESIAS LAUTARO
 descargar el documento raylib-3.7.0, 
 
 **porque la 3.7?**
-
+es más ligera y mas estable en máquinas antiguas
 
 **COMO COLOCAR LA LIBRERIA EN EL COMPILADOR:**
 para configurar el compilador, dentro del mismo proyecto
