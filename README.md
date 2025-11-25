@@ -9,7 +9,7 @@ GARCIA MATHEO,
 IGLESIAS LAUTARO
 
 **BIBLOTECA RAYLIB:**
-descargar el documento raylib-3.7.0, 
+descargar el documento raylib-3.7.0 
 
 **porque la 3.7?**
 es más ligera y mas estable en máquinas antiguas
